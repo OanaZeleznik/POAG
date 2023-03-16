@@ -5,11 +5,22 @@ This code was used to generate the results of our [publication](https://www.medr
 ### REFERENCE
 If you use code or parts of this code in your work, please cite our publication:
 
-Zeleznik, O.A., Kang, J.H., Lasky-Su, J.A., Eliassen, A.H., Frueh, L., Clish, C., Rosner, B.A., Elze, T., Hysi, P., Khawaja, A.P. and Wiggs, J.L., 2022. Plasma metabolomics of primary open-angle glaucoma in three prospective US cohorts and the UK Biobank. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.24.22271483v1).
+Zeleznik, O.A., Kang, J.H., Lasky-Su, J.A., Eliassen, A.H., Frueh, L., Clish, C., Rosner, B.A., Elze, T., Hysi, P., Khawaja, A.P. and Wiggs, J.L., Pasquale1, L.R and UK Biobank Eye and Vision Consortium, 2022. 
+Plasma metabolite profile for primary open-angle glaucoma in three US cohorts and the UK Biobank [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.24.22271483v1).
 
 ### ABSTRACT
 
-Glaucoma is a progressive optic neuropathy that is a leading cause of irreversible blindness worldwide. Primary open-angle glaucoma is the most common form, and yet the etiology of this multifactorial disease is poorly understood. We aimed to identify plasma metabolites associated with risk of developing glaucoma in a case-control study (599 cases and 599 matched controls) nested within the Nurses’ Health Studies and Health Professionals Follow-Up Study. Plasma metabolites were measured with liquid chromatography mass spectrometry (Broad Institute, USA); 367 metabolites from 17 metabolite classes passed quality control analyses. For comparison, in a cross-sectional study in the UK Biobank, 168 metabolites were measured in plasma samples from 2,238 prevalent glaucoma cases and 44,723 controls using nuclear magnetic resonance spectroscopy (Nightingale, Finland). Here, we show higher levels of diglycerides and triglycerides are adversely associated with glaucoma in all cohorts, suggesting that they play an important role in glaucoma pathogenesis.
+Glaucoma is a progressive optic neuropathy that is a leading cause of irreversible blindness worldwide. 
+Primary open-angle glaucoma is the most common form, and yet the etiology of this multifactorial disease 
+is poorly understood. We aimed to identify plasma metabolites associated with risk of developing glaucoma 
+in a case-control study (599 cases and 599 matched controls) nested within the Nurses’ Health Studies and 
+Health Professionals Follow-Up Study. Plasma metabolites were measured with liquid chromatography mass 
+spectrometry (Broad Institute, USA); 369 metabolites from 18 metabolite classes passed quality control 
+analyses. For comparison, in a cross-sectional study in the UK Biobank, 168 metabolites were measured 
+in plasma samples from 2,238 prevalent glaucoma cases and 44,723 controls using nuclear magnetic resonance 
+spectroscopy (Nightingale, Finland). Here, we show higher levels of diglycerides and triglycerides are 
+adversely associated with glaucoma in all cohorts, suggesting that they play an important role in 
+glaucoma pathogenesis.
 
 ## Setup
 
