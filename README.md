@@ -1,12 +1,11 @@
 ## Plasma metabolite profile for primary open-angle glaucoma in three US cohorts and the UK Biobank
 
-This code was used to generate the results of our [publication](https://www.medrxiv.org/content/10.1101/2022.02.24.22271483v1). 
+This code was used to generate the results of our [publication](https://www.nature.com/articles/s41467-023-38466-w). 
 
 ### REFERENCE
 If you use code or parts of this code in your work, please cite our publication:
 
-Zeleznik, O.A., Kang, J.H., Lasky-Su, J.A., Eliassen, A.H., Frueh, L., Clish, C., Rosner, B.A., Elze, T., Hysi, P., Khawaja, A.P. and Wiggs, J.L., Pasquale, L.R and UK Biobank Eye and Vision Consortium, 2022. 
-Plasma metabolite profile for primary open-angle glaucoma in three US cohorts and the UK Biobank [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.24.22271483v1).
+Zeleznik OA, Kang JH, Lasky-Su J, Eliassen AH, Frueh L, Clish CB, Rosner BA, Elze T, Hysi P, Khawaja A, Wiggs JL. Plasma metabolite profile for primary open-angle glaucoma in three US cohorts and the UK Biobank. [Nature Communications](https://www.nature.com/articles/s41467-023-38466-w). 2023 May 19;14(1):2860. 
 
 ### ABSTRACT
 
